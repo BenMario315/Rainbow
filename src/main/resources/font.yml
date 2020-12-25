@@ -1,0 +1,29 @@
+font_colour:     #字体颜色
+  black: §0         #黑色 u00A70
+  dark_blue: §1     #深蓝色 u00A71
+  dark_green: §2    #深绿色 u00A72
+  dark_aqua: §3     #湖蓝色 u00A73
+  dark_red: §4      #深红色 u00A74
+  dark_purple: §5   #紫色 u00A75
+  gold: §6          #金色 u00A76
+  gray: §7          #灰色 u00A77
+  dark_gray: §8     #深灰色 u00A78
+  blue: §9          #蓝色 u00A79
+  green: §a         #绿色 u00A7a
+  aqua: §b          #天蓝色 u00A7b
+  red: §c           #红色 u00A7c
+  light_purple: §d  #粉红色 u00A7d
+  yellow: §e        #黄色 u00A7e
+  white: §f         #黄色 u00A7f
+  minecoin_gold: §g #白色 u00A7g
+
+font_style:
+  random_characters: §k	#随机字符 u00A7k
+  bold: §l #粗体	u00A7l
+  strikethrough: §m #删除线 u00A7m
+  underline: §n	#下划线 u00A7n
+  italic: §o #斜体 u00A7o
+  Reset_style: §r #重置文字样式 u00A7r
+  line_feed: \n #换行 n
+
+

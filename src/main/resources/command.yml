@@ -1,0 +1,23 @@
+command:
+  register:
+    aliases:
+      - r
+      - reg
+    description:
+    usage:
+    permission:
+    permission-message:
+  login:
+    aliases:
+    description:
+    usage:
+    permission:
+    permission-message:
+  bind:
+    aliases:
+    description:
+    usage:
+    permission:
+    permission-message:
+
+

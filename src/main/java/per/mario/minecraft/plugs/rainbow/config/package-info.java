@@ -1,0 +1,1 @@
+package per.mario.minecraft.plugs.rainbow.config;

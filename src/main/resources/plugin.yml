@@ -1,0 +1,6 @@
+name: Rainbow
+version: ${project.version}
+main: per.mario.minecraft.plugs.rainbow.Rainbow
+api-version: 1.16
+authors: [mario]
+

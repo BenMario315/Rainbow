@@ -1,0 +1,18 @@
+
+message:
+  title: 欢迎来到「某某」服务器
+  subtitle: 请在游戏中请保持文明行为
+
+  welcome:
+    new-player: 欢迎[%s]加入游戏
+    non-new-player: 欢迎[%s]回来游戏
+
+
+
+
+
+
+
+
+
+
